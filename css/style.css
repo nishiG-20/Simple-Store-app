@@ -1,0 +1,40 @@
+.fix-size {
+    margin: 38px;
+    display: block;
+}
+
+.hv:hover {
+    cursor: alias;
+}
+
+.redColor {
+    color: red;
+
+}
+
+.bdr {
+    border: 2px solid orange;
+    background-color: aqua;
+}
+
+.size {
+    padding: 39px;
+}
+
+#PDPOWN{
+    /* background-color: aqua; */
+    padding:10px;
+    margin:15px;
+    margin-left: 34px;
+    width: 291px;
+}
+
+#SPDPOWN{
+    padding:10px;
+    width: 291px;
+    margin-left: 39px;
+}
+
+.fbs{
+    margin-left:19px;
+}
